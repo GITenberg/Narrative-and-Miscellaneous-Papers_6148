@@ -1,5 +1,8 @@
 _repo: Narrative-and-Miscellaneous-Papers_6148
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: De Quincey, Thomas
@@ -15,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
 description: v. 1. The household wreck. The Spanish nun. Flight of a Tartar tribe
   --
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6148#Narrative-and-Miscellaneous-Papers
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
